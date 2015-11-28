@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NIFR_Library">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Library/CSV/out/artifacts/NIFR_Library/NIFR_Library.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
